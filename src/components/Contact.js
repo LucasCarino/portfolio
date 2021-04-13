@@ -1,4 +1,5 @@
 import React from "react";
+import image from "../home-img.jpg";
 
 export default function Post() {
     return (
