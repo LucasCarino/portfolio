@@ -30,7 +30,7 @@ export default function NavBar() {
                     
                 </nav>
                 <div className="inline-flex py-7 px-3 my">
-                    <a href="https://drive.google.com/file/d/1Zy_N944jPYrTM0IKUHxIxfCgVJHlkRd5/view?usp=sharing" target="_blank"
+                    <a href="https://drive.google.com/file/d/1rUk9863Vftxgd0hDzruzW1CAMPjZ5A7D/view?usp=sharing" target="_blank"
                     className="inline-flex bg-blue-800 items-center py-3 px-3 mr-4 rounded text-blue-200 hover:text-blue-800 uppercase font-bold">
                         Mi CV
                     </a>
